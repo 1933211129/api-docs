@@ -160,7 +160,7 @@
       "middle_json": "{版面信息}",
       "content_list": "[内容列表]",
       "figure_dict": {
-          "figure_1": "iVBORw0KGgoAAAANSUhEUgA...（base6编码，可直接解析为图片文件）",
+          "figure_1": "iVBORw0KGgoAAAANSUhEUgA...（base64编码，可直接解析为图片文件）",
           "figure_2": "R0lGODlhAQABAIAAAAAAAP..."
       },
       "backend": "pipeline",
